@@ -17,6 +17,7 @@
   "dependencies": {
     "@redux-devtools/extension": "^3.2.6",
     "@reduxjs/toolkit": "^1.9.7",
+    "@hookform/resolvers": "^3.3.2",
     "lint-staged": "^15.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

@@ -1,0 +1,48 @@
+.form {
+  width: 60rem;
+  margin: auto;
+  padding: 2rem;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+}
+
+.inputBlock {
+  display: block;
+  margin: auto;
+  min-height: 3rem;
+}
+
+.label {
+  display: block;
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+.textInput {
+  padding: 1rem;
+  border: 0;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+  width: 100%;
+}
+
+.radioBlock {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 1rem;
+}
+
+.errorMessage {
+  font-size: 1.5rem;
+  background-color: rgba(103, 245, 167, 0.232);
+  padding: 1rem;
+  margin: auto;
+}
+
+.fileImage {
+  width: 20rem;
+}
+
+.smallLink {
+  display: block;
+  margin-bottom: 2rem;
+}
