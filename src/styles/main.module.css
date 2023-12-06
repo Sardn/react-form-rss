@@ -7,27 +7,31 @@
   margin: 30px auto;
 }
 
-.cardField{
+.cardField {
   text-align: left;
 }
 
-.imgBlock img{
+.imgBlock img {
   width: 10rem;
+}
+h4 {
+  display: block;
+  margin-bottom: 10rem;
 }
 
 .link {
   margin: 5rem;
-  padding: 5rem;
+  padding: 2rem;
   box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
   border-radius: 5%;
 }
 
 .link:hover {
-   box-shadow: 0 0 8px 2px rgba(0, 0, 0, 0.3);
-   color: aliceblue;
+  box-shadow: 0 0 8px 2px rgba(0, 0, 0, 0.3);
+  color: aliceblue;
 }
 
-.emptyBlock{
+.emptyBlock {
   margin: auto 20px;
   height: 40vh;
   display: flex;
