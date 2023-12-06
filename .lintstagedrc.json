@@ -1,0 +1,6 @@
+{
+    "*.{js,ts,tsx,jsx}": [
+      "npm run format:fix",
+      "npm run lint-fix"
+    ]
+  }
